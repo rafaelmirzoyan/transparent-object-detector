@@ -1,0 +1,7 @@
+path: C:\Users\Peter\Downloads\train\train\yolo_out
+
+train: images
+val: images   # for now, use same images for validation
+
+names:
+  0: transparent_object
